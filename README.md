@@ -1,4 +1,4 @@
-# ai-bookmarks service
+# minimal-express-on-vercel
 
 ## Run locally
 
