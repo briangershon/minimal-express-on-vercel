@@ -9,7 +9,4 @@ yarn dev
 
 ## Run in production
 
-```bash
-yarn build
-yarn start
-```
+When deployed to Vercel, it will automatically compile TypeScript files and run the server.
