@@ -3,8 +3,14 @@
 ## Run locally
 
 ```bash
-yarn
-yarn dev
+npm install
+npm run dev
+```
+
+## Run tests
+
+```bash
+npm test
 ```
 
 ## Run in production
