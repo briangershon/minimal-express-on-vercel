@@ -7,7 +7,6 @@ export default defineConfig({
       reporter: ['text', 'json', 'html', 'lcov'],
       reportsDirectory: './coverage',
     },
-    reporters: ['default', 'junit'],
-    outputFile: 'junit.xml',
+    reporters: ['default'],
   },
 });

@@ -31,5 +31,4 @@ jobs:
           name: test-results
           path: |
             coverage/
-            junit.xml
           retention-days: 5
