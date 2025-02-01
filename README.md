@@ -7,10 +7,11 @@ npm install
 npm run dev
 ```
 
-## Run tests
+## Run tests or coverage reports
 
 ```bash
 npm test
+npm run coverage
 ```
 
 ## Run in production
