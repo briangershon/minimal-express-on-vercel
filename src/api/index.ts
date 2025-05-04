@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 app.get('/', (_req: Request, res: Response) => {
-  res.json({ message: 'Hello from TypeScript Express on Vercel!' });
+  res.json({ message: 'Hello!' });
 });
 
 export default app;
